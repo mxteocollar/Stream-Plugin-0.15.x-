@@ -1,0 +1,3 @@
+start_message: "§6==============================\n§f» §a{player} está transmitindo no §c{platform}§f, confira: §b{url}\n§6=============================="
+stop_message: "§7» §c{player} §7encerrou sua live!"
+stream_prefix: "§l§d[STREAMING]"
