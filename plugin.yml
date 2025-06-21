@@ -1,0 +1,13 @@
+name: StreamAlert
+main: Mateo\Main
+version: 1.0.0
+api: 1.0.0
+author: Kxrage
+commands:
+  stream:
+    description: Ativa/desativa o modo stream ou lista quem está transmitindo.
+    usage: "/stream on <yt/twitch/other> <url> | off | list"
+    permission: stream.use
+permissions:
+  stream.use:
+    default: true
